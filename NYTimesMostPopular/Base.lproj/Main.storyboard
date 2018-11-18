@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="a54-SA-hvO">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Most Popular-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController storyboardIdentifier="ViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="BYZ-38-t0r" customClass="ViewController" customModule="NYTimesMostPopular" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="JRs-TR-Ydn">
+                                <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </tableView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.94901960784313721" green="0.94901960784313721" blue="0.94901960784313721" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="JRs-TR-Ydn" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="1n8-4q-vUR"/>
+                            <constraint firstItem="JRs-TR-Ydn" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="GUL-XN-APq"/>
+                            <constraint firstItem="JRs-TR-Ydn" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="RnB-Mc-cJ7"/>
+                            <constraint firstItem="JRs-TR-Ydn" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="yQ2-sF-CNq"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Most Popular" id="757-Xl-oSj"/>
+                    <connections>
+                        <outlet property="articlesTableView" destination="JRs-TR-Ydn" id="TUA-33-GhD"/>
+                        <segue destination="3jw-mE-z33" kind="show" identifier="ArticleDetailVC" id="bPE-yg-Ux8"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1079.2" y="133.5832083958021"/>
+        </scene>
+        <!--Articles-->
+        <scene sceneID="jT0-bm-GHp">
+            <objects>
+                <viewController storyboardIdentifier="ArticleDetailViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="3jw-mE-z33" customClass="ArticleDetailViewController" customModule="NYTimesMostPopular" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="y48-Ea-rHm">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <wkWebView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Im2-5h-z2M">
+                                <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+                                <color key="backgroundColor" red="0.36078431370000003" green="0.38823529410000002" blue="0.4039215686" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <wkWebViewConfiguration key="configuration">
+                                    <audiovisualMediaTypes key="mediaTypesRequiringUserActionForPlayback" none="YES"/>
+                                    <wkPreferences key="preferences"/>
+                                </wkWebViewConfiguration>
+                            </wkWebView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="Im2-5h-z2M" firstAttribute="bottom" secondItem="Mdc-25-dvo" secondAttribute="bottom" id="7Jd-bG-S64"/>
+                            <constraint firstItem="Im2-5h-z2M" firstAttribute="leading" secondItem="Mdc-25-dvo" secondAttribute="leading" id="P2c-1z-vLG"/>
+                            <constraint firstItem="Im2-5h-z2M" firstAttribute="top" secondItem="Mdc-25-dvo" secondAttribute="top" id="eqP-Ka-i75"/>
+                            <constraint firstItem="Im2-5h-z2M" firstAttribute="trailing" secondItem="Mdc-25-dvo" secondAttribute="trailing" id="wYy-Qf-kfQ"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="Mdc-25-dvo"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Articles" id="cOv-UD-vq3"/>
+                    <connections>
+                        <outlet property="articleDetailWebview" destination="Im2-5h-z2M" id="xXL-wB-6cg"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="uU1-YG-Z1W" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1824.8" y="133.5832083958021"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="94v-dk-osw">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="a54-SA-hvO" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="5os-x3-b5N">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="imf-Or-Gea"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ewb-iM-0FL" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="321" y="571"/>
+        </scene>
+    </scenes>
+</document>

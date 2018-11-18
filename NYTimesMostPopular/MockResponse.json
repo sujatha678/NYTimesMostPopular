@@ -1,0 +1,1984 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2018 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1753,
+    "results": [
+                {
+                "url": "https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html",
+                "adx_keywords": "Facebook Inc;Russian Interference in 2016 US Elections and Ties to Trump Associates;Data-Mining and Database Marketing;Sandberg, Sheryl K;Zuckerberg, Mark E;Rumors and Misinformation;Cyberwarfare and Defense;Privacy;United States Politics and Government;Political Advertising",
+                "column": null,
+                "section": "Technology",
+                "byline": "By SHEERA FRENKEL, NICHOLAS CONFESSORE, CECILIA KANG, MATTHEW ROSENBERG and JACK NICAS",
+                "type": "Article",
+                "title": "Delay, Deny and Deflect: How Facebook’s Leaders Fought Through Crisis",
+                "abstract": "Russian meddling, data sharing, hate speech — the social network faced one scandal after another. This is how Mark Zuckerberg and Sheryl Sandberg responded.",
+                "published_date": "2018-11-14",
+                "source": "The New York Times",
+                "id": 100000006151342,
+                "asset_id": 100000006151342,
+                "views": 1,
+                "des_facet": [
+                              "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+                              "RUMORS AND MISINFORMATION",
+                              "PRIVACY"
+                              ],
+                "org_facet": [
+                              "FACEBOOK INC",
+                              "DATA-MINING AND DATABASE MARKETING",
+                              "CYBERWARFARE AND DEFENSE",
+                              "UNITED STATES POLITICS AND GOVERNMENT",
+                              "POLITICAL ADVERTISING"
+                              ],
+                "per_facet": [
+                              "SANDBERG, SHERYL K",
+                              "ZUCKERBERG, MARK E"
+                              ],
+                "geo_facet": "",
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Under Mark Zuckerberg, the founder, and Sheryl Sandberg, the chief operating officer, Facebook has gone on the attack amid mounting scandals.",
+                          "copyright": "The New York Times",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/business/15facebookdip-promo/15facebookdip-promo-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/business/15facebookdip-promo/15facebookdip-promo-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/business/15facebookdip-promo/15facebookdip-promo-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 133,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/business/15facebookdip-promo/15facebookdip-promo-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/business/15facebookdip-promo/15facebookdip-promo-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 716,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/business/15facebookdip-promo/15facebookdip-promo-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1433,
+                                             "width": 2048
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/business/15facebookdip-promo/15facebookdip-promo-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/business/15facebookdip-promo/15facebookdip-promo-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/business/15facebookdip-promo/15facebookdip-promo-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/business/15facebookdip-promo/15facebookdip-promo-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/interactive/2018/11/11/us/california-fires-tracker.html",
+                "adx_keywords": "Wildfires;Fires and Firefighters;California;Sierra Nevada Region (US);Los Angeles (Calif)",
+                "column": "",
+                "section": "U.S.",
+                "byline": "By MATTHEW BLOCH, JUGAL K. PATEL and ANJALI SINGHVI",
+                "type": "Interactive",
+                "title": "Maps: Tracking the Spread of the California Fires",
+                "abstract": "Wildfires burned in California near the Sierra Nevada foothills and the Los Angeles shoreline, engulfing about 240,000 acres.",
+                "published_date": "2018-11-11",
+                "source": "The New York Times",
+                "id": 100000006209609,
+                "asset_id": 100000006209609,
+                "views": 2,
+                "des_facet": [
+                              "WILDFIRES",
+                              "FIRES AND FIREFIGHTERS"
+                              ],
+                "org_facet": "",
+                "per_facet": "",
+                "geo_facet": [
+                              "CALIFORNIA",
+                              "SIERRA NEVADA REGION (US)",
+                              "LOS ANGELES (CALIF)"
+                              ],
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "",
+                          "copyright": "",
+                          "approved_for_syndication": 0,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/california-fires-tracker-promo-1541957051515/california-fires-tracker-promo-1541957051515-square320-v2.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/california-fires-tracker-promo-1541957051515/california-fires-tracker-promo-1541957051515-thumbStandard-v2.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/california-fires-tracker-promo-1541957051515/california-fires-tracker-promo-1541957051515-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/california-fires-tracker-promo-1541957051515/california-fires-tracker-promo-1541957051515-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/california-fires-tracker-promo-1541957051515/california-fires-tracker-promo-1541957051515-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/california-fires-tracker-promo-1541957051515/california-fires-tracker-promo-1541957051515-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1366,
+                                             "width": 2048
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/california-fires-tracker-promo-1541957051515/california-fires-tracker-promo-1541957051515-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/california-fires-tracker-promo-1541957051515/california-fires-tracker-promo-1541957051515-thumbLarge-v2.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/california-fires-tracker-promo-1541957051515/california-fires-tracker-promo-1541957051515-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/california-fires-tracker-promo-1541957051515/california-fires-tracker-promo-1541957051515-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/interactive/2018/11/10/us/elections/2018-possible-midterm-recounts-georgia-florida-arizona.html",
+                "adx_keywords": "Elections, Senate;Politics and Government;Senate;Republican Party;Democratic Party",
+                "column": "",
+                "section": "U.S.",
+                "byline": "By SARAH ALMUKHTAR, TROY GRIGGS, ADAM PEARCE and KAREN YOURISH",
+                "type": "Interactive",
+                "title": "See How Close the Results Are in Georgia, Florida and Arizona",
+                "abstract": "We’re tracking the votes as they are tallied in two races for governor and two for Senate that have slim margins.",
+                "published_date": "2018-11-10",
+                "source": "The New York Times",
+                "id": 100000006207880,
+                "asset_id": 100000006207880,
+                "views": 3,
+                "des_facet": [
+                              "POLITICS AND GOVERNMENT"
+                              ],
+                "org_facet": [
+                              "ELECTIONS, SENATE",
+                              "SENATE",
+                              "REPUBLICAN PARTY",
+                              "DEMOCRATIC PARTY"
+                              ],
+                "per_facet": "",
+                "geo_facet": "",
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": null,
+                          "copyright": null,
+                          "approved_for_syndication": 0,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/09/us/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-square320-v2.png",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/09/us/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-thumbStandard-v2.png",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/09/us/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-articleInline-v2.png",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/09/us/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-sfSpan-v2.png",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/09/us/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-jumbo-v2.png",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/09/us/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-superJumbo-v2.png",
+                                             "format": "superJumbo",
+                                             "height": 1366,
+                                             "width": 2048
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/09/us/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-square640-v3.png",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/09/us/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-thumbLarge-v2.png",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/09/us/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-mediumThreeByTwo210-v2.png",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/09/us/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-mediumThreeByTwo440-v2.png",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/2018/11/12/business/economy/trumps-tax-cut-was-supposed-to-change-corporate-behavior-heres-what-happened.html",
+                "adx_keywords": "Tax Cuts and Jobs Act (2017);United States Economy;Corporate Taxes;Federal Taxes (US);Wages and Salaries;Federal Budget (US);United States Politics and Government;Bonuses",
+                "column": null,
+                "section": "Business",
+                "byline": "By JIM TANKERSLEY and MATT PHILLIPS",
+                "type": "Article",
+                "title": "Trump’s Tax Cut Was Supposed to Change Corporate Behavior. Here’s What Happened.",
+                "abstract": "Nearly a year after the tax cut, economic growth has accelerated. Wage growth has not. Companies are buying back stock and business investment is a mixed bag. ",
+                "published_date": "2018-11-12",
+                "source": "The New York Times",
+                "id": 100000006182854,
+                "asset_id": 100000006182854,
+                "views": 4,
+                "des_facet": [
+                              "UNITED STATES ECONOMY",
+                              "CORPORATE TAXES",
+                              "FEDERAL TAXES (US)"
+                              ],
+                "org_facet": [
+                              "TAX CUTS AND JOBS ACT (2017)",
+                              "WAGES AND SALARIES",
+                              "FEDERAL BUDGET (US)",
+                              "UNITED STATES POLITICS AND GOVERNMENT",
+                              "BONUSES"
+                              ],
+                "per_facet": "",
+                "geo_facet": "",
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "",
+                          "copyright": "",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/business/13dc-taxcuts-promo/13dc-taxcuts-promo-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/business/13dc-taxcuts-promo/13dc-taxcuts-promo-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/business/13dc-taxcuts-promo/13dc-taxcuts-promo-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 101,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/business/13dc-taxcuts-promo/13dc-taxcuts-promo-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/business/13dc-taxcuts-promo/13dc-taxcuts-promo-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 546,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/business/13dc-taxcuts-promo/13dc-taxcuts-promo-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 560,
+                                             "width": 1050
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/business/13dc-taxcuts-promo/13dc-taxcuts-promo-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/business/13dc-taxcuts-promo/13dc-taxcuts-promo-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/interactive/2018/11/06/us/elections/results-house-elections.html",
+                "adx_keywords": "2018 Election Results;Midterm Elections (2018)",
+                "column": "",
+                "section": "U.S.",
+                "byline": "",
+                "type": "Interactive",
+                "title": "House Election Results: Democrats Take Control",
+                "abstract": "See live U.S. House results and maps.",
+                "published_date": "2018-11-06",
+                "source": "The New York Times",
+                "id": 100000006186230,
+                "asset_id": 100000006186230,
+                "views": 5,
+                "des_facet": [
+                              "MIDTERM ELECTIONS (2018)"
+                              ],
+                "org_facet": "",
+                "per_facet": "",
+                "geo_facet": "",
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "",
+                          "copyright": "",
+                          "approved_for_syndication": 0,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-housemap/election-promo-housemap-square320-v154.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-housemap/election-promo-housemap-thumbStandard-v154.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-housemap/election-promo-housemap-articleInline-v156.jpg",
+                                             "format": "Normal",
+                                             "height": 99,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-housemap/election-promo-housemap-sfSpan-v154.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-housemap/election-promo-housemap-jumbo-v156.jpg",
+                                             "format": "Jumbo",
+                                             "height": 536,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-housemap/election-promo-housemap-superJumbo-v156.jpg",
+                                             "format": "superJumbo",
+                                             "height": 560,
+                                             "width": 1070
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-housemap/election-promo-housemap-thumbLarge-v154.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-housemap/election-promo-housemap-mediumThreeByTwo210-v154.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-housemap/election-promo-housemap-mediumThreeByTwo440-v154.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/2018/11/12/us/kyrsten-sinema-arizona-senator.html",
+                "adx_keywords": "Sinema, Kyrsten;Arizona;United States Politics and Government;Democratic Party;Midterm Elections (2018);Elections, Senate;McSally, Martha",
+                "column": null,
+                "section": "U.S.",
+                "byline": "By SIMON ROMERO",
+                "type": "Article",
+                "title": "Kyrsten Sinema Declared Winner in Arizona Senate Race",
+                "abstract": "After a delayed count, Ms. Sinema scored a groundbreaking victory for Democrats in a state that has been a Republican bastion for decades.",
+                "published_date": "2018-11-12",
+                "source": "The New York Times",
+                "id": 100000006210841,
+                "asset_id": 100000006210841,
+                "views": 6,
+                "des_facet": [
+                              "UNITED STATES POLITICS AND GOVERNMENT",
+                              "MIDTERM ELECTIONS (2018)"
+                              ],
+                "org_facet": [
+                              "DEMOCRATIC PARTY",
+                              "ELECTIONS, SENATE"
+                              ],
+                "per_facet": [
+                              "SINEMA, KYRSTEN",
+                              "MCSALLY, MARTHA"
+                              ],
+                "geo_facet": [
+                              "ARIZONA"
+                              ],
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Representative Kyrsten Sinema spoke to supporters after officially winning the state senate race.",
+                          "copyright": "Caitlin O'Hara/Reuters",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13arizona/13arizona-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13arizona/13arizona-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13arizona/merlin_146770704_3844b0d3-7d9f-459d-9be6-10bd30ef6526-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13arizona/merlin_146770704_3844b0d3-7d9f-459d-9be6-10bd30ef6526-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13arizona/merlin_146770704_3844b0d3-7d9f-459d-9be6-10bd30ef6526-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13arizona/merlin_146770704_3844b0d3-7d9f-459d-9be6-10bd30ef6526-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1366,
+                                             "width": 2048
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13arizona/13arizona-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13arizona/13arizona-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13arizona/13arizona-mediumThreeByTwo210-v3.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13arizona/13arizona-mediumThreeByTwo440-v3.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/2018/11/13/us/politics/midterm-results-democratic-gains.html",
+                "adx_keywords": "Midterm Elections (2018);Democratic Party;Republican Party;Elections, House of Representatives;Elections, Senate;State Legislatures;States (US);Politics and Government;United States Politics and Government;Trump, Donald J;California;Arizona",
+                "column": null,
+                "section": "U.S.",
+                "byline": "By ALEXANDER BURNS",
+                "type": "Article",
+                "title": "A Week After the Election, Democratic Gains Grow Stronger",
+                "abstract": "What seemed like a mixed result for Republicans has turned more grim as Democrats continue to pick up seats in the House and statewide gains come into focus.",
+                "published_date": "2018-11-13",
+                "source": "The New York Times",
+                "id": 100000006211269,
+                "asset_id": 100000006211269,
+                "views": 7,
+                "des_facet": [
+                              "MIDTERM ELECTIONS (2018)",
+                              "STATE LEGISLATURES",
+                              "STATES (US)",
+                              "POLITICS AND GOVERNMENT"
+                              ],
+                "org_facet": [
+                              "DEMOCRATIC PARTY",
+                              "REPUBLICAN PARTY",
+                              "ELECTIONS, HOUSE OF REPRESENTATIVES",
+                              "ELECTIONS, SENATE",
+                              "UNITED STATES POLITICS AND GOVERNMENT"
+                              ],
+                "per_facet": [
+                              "TRUMP, DONALD J"
+                              ],
+                "geo_facet": [
+                              "CALIFORNIA",
+                              "ARIZONA"
+                              ],
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Abigail Spanberger, a Democrat, ousted Representative Dave Brat in Virginia. Her victory was part of a Democratic wave that is looking stronger a week removed from the election.",
+                          "copyright": "Erin Schaff for The New York Times",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/14/us/politics/14midterms1-print/14midterms1-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/14/us/politics/14midterms1-print/14midterms1-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/14/us/politics/14midterms1-print/14midterms1-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/14/us/politics/14midterms1-print/14midterms1-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/14/us/politics/14midterms1-print/14midterms1-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/14/us/politics/14midterms1-print/14midterms1-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1365,
+                                             "width": 2048
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/14/us/politics/14midterms1-print/14midterms1-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/14/us/politics/14midterms1-print/14midterms1-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/14/us/politics/14midterms1-print/14midterms1-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/14/us/politics/14midterms1-print/14midterms1-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/2018/11/12/obituaries/stan-lee-dead.html",
+                "adx_keywords": "Lee, Stan;Deaths (Obituaries);Comic Books and Strips;Marvel Comics;Marvel Entertainment;Cartoons and Cartoonists;Kirby, Jack",
+                "column": "",
+                "section": "Obituaries",
+                "byline": "By JONATHAN KANDELL and ANDY WEBSTER",
+                "type": "Article",
+                "title": "Stan Lee Is Dead at 95; Superhero of Marvel Comics",
+                "abstract": "Mr. Lee helped create Spider-Man, the X-Men, the Fantastic Four, Iron Man and others while overseeing his company’s emergence as a media behemoth.",
+                "published_date": "2018-11-12",
+                "source": "The New York Times",
+                "id": 100000003578388,
+                "asset_id": 100000003578388,
+                "views": 8,
+                "des_facet": [
+                              "COMIC BOOKS AND STRIPS"
+                              ],
+                "org_facet": [
+                              "DEATHS (OBITUARIES)",
+                              "MARVEL COMICS",
+                              "MARVEL ENTERTAINMENT",
+                              "CARTOONS AND CARTOONISTS"
+                              ],
+                "per_facet": [
+                              "LEE, STAN",
+                              "KIRBY, JACK"
+                              ],
+                "geo_facet": "",
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Mr. Lee in 2012 at New York Comic Con. A writer, editor, publisher, Hollywood executive and tireless promoter (of Marvel and of himself), he played a critical role in what comics fans call the medium’s silver age.",
+                          "copyright": "Marion Curtis/STARPIX, via Associated Press",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/obituaries/13LEE3/merlin_62022752_e379f753-4edd-4176-861e-4d1774be87e9-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/obituaries/13LEE3/13LEE3-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/obituaries/13LEE3/merlin_62022752_e379f753-4edd-4176-861e-4d1774be87e9-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 285,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/obituaries/13LEE3/13LEE3-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/obituaries/13LEE3/merlin_62022752_e379f753-4edd-4176-861e-4d1774be87e9-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 1024,
+                                             "width": 683
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/obituaries/13LEE3/merlin_62022752_e379f753-4edd-4176-861e-4d1774be87e9-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 2048,
+                                             "width": 1366
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/obituaries/13LEE3/merlin_62022752_e379f753-4edd-4176-861e-4d1774be87e9-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/obituaries/13LEE3/13LEE3-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/obituaries/13LEE3/13LEE3-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/obituaries/13LEE3/13LEE3-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/2018/11/10/us/the-california-fires-in-photos.html",
+                "adx_keywords": "Wildfires;Los Angeles (Calif);Malibu (Calif);Photography;your-feed-photojournalism",
+                "column": null,
+                "section": "U.S.",
+                "byline": "By THOMAS FULLER and LANCE BOOTH",
+                "type": "Article",
+                "title": "California Hasn’t Seen Fires Like This: Pictures of a State in Flames",
+                "abstract": "Photographers documented the wildfires ravaging California — along the palm-fringed shoreline near Los Angeles and the evergreen forests of the Sierra Nevada foothills.",
+                "published_date": "2018-11-10",
+                "source": "The New York Times",
+                "id": 100000006209011,
+                "asset_id": 100000006209011,
+                "views": 9,
+                "des_facet": [
+                              "WILDFIRES",
+                              "PHOTOGRAPHY",
+                              "YOUR-FEED-PHOTOJOURNALISM"
+                              ],
+                "org_facet": "",
+                "per_facet": "",
+                "geo_facet": [
+                              "LOS ANGELES (CALIF)",
+                              "MALIBU (CALIF)"
+                              ],
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": " ",
+                          "copyright": "Noah Berger/Associated Press",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11fire-scene-fader/11fire-scene-fader-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11fire-scene-fader/11fire-scene-fader-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11fire-scene-fader/merlin_146672658_f845398f-eced-4407-b5c6-5780dbb16ea0-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11fire-scene-fader/merlin_146672658_f845398f-eced-4407-b5c6-5780dbb16ea0-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11fire-scene-fader/merlin_146672658_f845398f-eced-4407-b5c6-5780dbb16ea0-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11fire-scene-fader/merlin_146672658_f845398f-eced-4407-b5c6-5780dbb16ea0-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1365,
+                                             "width": 2048
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11fire-scene-fader/11fire-scene-fader-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11fire-scene-fader/11fire-scene-fader-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11fire-scene-fader/merlin_146672658_f845398f-eced-4407-b5c6-5780dbb16ea0-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11fire-scene-fader/merlin_146672658_f845398f-eced-4407-b5c6-5780dbb16ea0-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/2018/11/15/us/navy-seal-edward-gallagher-isis.html",
+                "adx_keywords": "Navy Seals;Gallagher, Edward (1979- );Iraq;United States Defense and Military Forces;Courts-Martial;War Crimes, Genocide and Crimes Against Humanity;Murders, Attempted Murders and Homicides;Civilian Casualties;Terrorism;Islamic State in Iraq and Syria (ISIS)",
+                "column": null,
+                "section": "U.S.",
+                "byline": "By DAVE PHILIPPS",
+                "type": "Article",
+                "title": "Decorated Navy SEAL Is Accused of War Crimes in Iraq",
+                "abstract": "Prosecutors say Edward Gallagher turned bloodthirsty on his eighth deployment, shooting civilians and stabbing a captive. His lawyer called the charges baseless.",
+                "published_date": "2018-11-15",
+                "source": "The New York Times",
+                "id": 100000006217931,
+                "asset_id": 100000006217931,
+                "views": 10,
+                "des_facet": [
+                              "UNITED STATES DEFENSE AND MILITARY FORCES",
+                              "MURDERS, ATTEMPTED MURDERS AND HOMICIDES",
+                              "TERRORISM"
+                              ],
+                "org_facet": [
+                              "NAVY SEALS",
+                              "COURTS-MARTIAL",
+                              "WAR CRIMES, GENOCIDE AND CRIMES AGAINST HUMANITY",
+                              "CIVILIAN CASUALTIES",
+                              "ISLAMIC STATE IN IRAQ AND SYRIA (ISIS)"
+                              ],
+                "per_facet": [
+                              "GALLAGHER, EDWARD (1979- )"
+                              ],
+                "geo_facet": [
+                              "IRAQ"
+                              ],
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Special Operations Chief Edward Gallagher, seen during his 2017 deployment, may face a military trial on murder and other charges.",
+                          "copyright": "",
+                          "approved_for_syndication": 0,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/16/us/16seal-print/merlin_146885469_3165fef3-b058-4e5c-8b7e-bcc7afc897da-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/16/us/16seal-print/merlin_146885469_3165fef3-b058-4e5c-8b7e-bcc7afc897da-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/16/us/16seal-print/merlin_146885469_3165fef3-b058-4e5c-8b7e-bcc7afc897da-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 253,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/16/us/16seal-print/merlin_146885469_3165fef3-b058-4e5c-8b7e-bcc7afc897da-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/16/us/16seal-print/merlin_146885469_3165fef3-b058-4e5c-8b7e-bcc7afc897da-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 1024,
+                                             "width": 768
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/16/us/16seal-print/merlin_146885469_3165fef3-b058-4e5c-8b7e-bcc7afc897da-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 2048,
+                                             "width": 1536
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/16/us/16seal-print/merlin_146885469_3165fef3-b058-4e5c-8b7e-bcc7afc897da-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/16/us/16seal-print/merlin_146885469_3165fef3-b058-4e5c-8b7e-bcc7afc897da-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/16/us/16seal-print/merlin_146885469_3165fef3-b058-4e5c-8b7e-bcc7afc897da-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/16/us/16seal-print/merlin_146885469_3165fef3-b058-4e5c-8b7e-bcc7afc897da-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/2018/11/12/us/politics/north-korea-missile-bases.html",
+                "adx_keywords": "North Korea;Missiles and Missile Defense Systems;Nuclear Weapons;Center for Strategic and International Studies;United States International Relations;Bermudez, Joseph S Jr;Cha, Victor D;Kim Jong-un;Trump, Donald J",
+                "column": null,
+                "section": "U.S.",
+                "byline": "By DAVID E. SANGER and WILLIAM J. BROAD",
+                "type": "Article",
+                "title": "In North Korea, Missile Bases Suggest a Great Deception",
+                "abstract": "President Trump says the nuclear threat from North Korea is over. New satellite images of 16 hidden ballistic missile bases suggest that it has worsened since his summit meeting.",
+                "published_date": "2018-11-12",
+                "source": "The New York Times",
+                "id": 100000006207492,
+                "asset_id": 100000006207492,
+                "views": 11,
+                "des_facet": [
+                              "MISSILES AND MISSILE DEFENSE SYSTEMS",
+                              "UNITED STATES INTERNATIONAL RELATIONS"
+                              ],
+                "org_facet": [
+                              "NUCLEAR WEAPONS",
+                              "CENTER FOR STRATEGIC AND INTERNATIONAL STUDIES"
+                              ],
+                "per_facet": [
+                              "BERMUDEZ, JOSEPH S JR",
+                              "CHA, VICTOR D",
+                              "KIM JONG-UN",
+                              "TRUMP, DONALD J"
+                              ],
+                "geo_facet": [
+                              "NORTH KOREA"
+                              ],
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Support facilities within the base, which is a little more than 50 miles north of the Demilitarized Zone.",
+                          "copyright": "CSIS/Beyond Parallel, via DigitalGlobe 2018",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-XNUKES-02/11dc-XNUKES-02-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-XNUKES-02/11dc-XNUKES-02-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-XNUKES-02/merlin_146578512_4f65004a-20f8-449c-8535-8adb40d13631-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 143,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-XNUKES-02/11dc-XNUKES-02-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-XNUKES-02/merlin_146578512_4f65004a-20f8-449c-8535-8adb40d13631-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 768,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-XNUKES-02/merlin_146578512_4f65004a-20f8-449c-8535-8adb40d13631-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1536,
+                                             "width": 2048
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-XNUKES-02/11dc-XNUKES-02-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-XNUKES-02/11dc-XNUKES-02-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-XNUKES-02/11dc-XNUKES-02-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-XNUKES-02/11dc-XNUKES-02-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/interactive/2018/11/06/us/elections/results-senate-elections.html",
+                "adx_keywords": "2018 Election Results;Midterm Elections (2018)",
+                "column": "",
+                "section": "U.S.",
+                "byline": "",
+                "type": "Interactive",
+                "title": "Senate Election Results: Republicans Keep Majority",
+                "abstract": "See live U.S. Senate results and maps.",
+                "published_date": "2018-11-06",
+                "source": "The New York Times",
+                "id": 100000006197592,
+                "asset_id": 100000006197592,
+                "views": 12,
+                "des_facet": [
+                              "MIDTERM ELECTIONS (2018)"
+                              ],
+                "org_facet": "",
+                "per_facet": "",
+                "geo_facet": "",
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "",
+                          "copyright": "",
+                          "approved_for_syndication": 0,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-senate-map/election-promo-senate-map-square320-v147.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-senate-map/election-promo-senate-map-thumbStandard-v147.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-senate-map/election-promo-senate-map-articleInline-v147.jpg",
+                                             "format": "Normal",
+                                             "height": 99,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-senate-map/election-promo-senate-map-sfSpan-v147.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-senate-map/election-promo-senate-map-jumbo-v147.jpg",
+                                             "format": "Jumbo",
+                                             "height": 536,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-senate-map/election-promo-senate-map-superJumbo-v147.jpg",
+                                             "format": "superJumbo",
+                                             "height": 560,
+                                             "width": 1070
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-senate-map/election-promo-senate-map-thumbLarge-v147.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-senate-map/election-promo-senate-map-mediumThreeByTwo210-v147.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/05/us/elections/election-promo-senate-map/election-promo-senate-map-mediumThreeByTwo440-v147.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/2018/11/10/style/the-canadian-kardashians.html",
+                "adx_keywords": "Matharoo, Kiran;Matharoo, Jyoti;Social Media;High Net Worth Individuals;Fashion and Apparel;Corruption (Institutional);Interpol (International Criminal Police Organization);your-feed-selfcare;Canada;Otedola, Femi;Nigeria",
+                "column": null,
+                "section": "Style",
+                "byline": "By DAN LEVIN",
+                "type": "Article",
+                "title": "How to Date a Lot of Billionaires",
+                "abstract": "Jyoti and Kiran Matharoo sought fame on social media by flaunting what nature — and men — gave them. Then they got locked up abroad. ",
+                "published_date": "2018-11-10",
+                "source": "The New York Times",
+                "id": 100000006181256,
+                "asset_id": 100000006181256,
+                "views": 13,
+                "des_facet": [
+                              "SOCIAL MEDIA",
+                              "HIGH NET WORTH INDIVIDUALS",
+                              "YOUR-FEED-SELFCARE"
+                              ],
+                "org_facet": [
+                              "FASHION AND APPAREL",
+                              "CORRUPTION (INSTITUTIONAL)",
+                              "INTERPOL (INTERNATIONAL CRIMINAL POLICE ORGANIZATION)"
+                              ],
+                "per_facet": [
+                              "MATHAROO, KIRAN",
+                              "MATHAROO, JYOTI",
+                              "OTEDOLA, FEMI"
+                              ],
+                "geo_facet": [
+                              "CANADA",
+                              "NIGERIA"
+                              ],
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Jyoti and Kiran shopping.",
+                          "copyright": "Tara Walton for The New York Times",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/fashion/11canadian-kardashians-3/11canadian-kardashians-3-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/fashion/11canadian-kardashians-3/11canadian-kardashians-3-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/fashion/11canadian-kardashians-3/merlin_136302804_babce90c-6e82-470d-8274-3c5688df238a-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 152,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/fashion/11canadian-kardashians-3/11canadian-kardashians-3-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/fashion/11canadian-kardashians-3/merlin_136302804_babce90c-6e82-470d-8274-3c5688df238a-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 819,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/fashion/11canadian-kardashians-3/merlin_136302804_babce90c-6e82-470d-8274-3c5688df238a-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1638,
+                                             "width": 2048
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/fashion/11canadian-kardashians-3/11canadian-kardashians-3-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/fashion/11canadian-kardashians-3/11canadian-kardashians-3-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/fashion/11canadian-kardashians-3/11canadian-kardashians-3-mediumThreeByTwo210-v2.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/fashion/11canadian-kardashians-3/11canadian-kardashians-3-mediumThreeByTwo440-v2.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/2018/11/10/us/deployed-inside-the-united-states-the-military-waits-for-the-migrant-caravan.html",
+                "adx_keywords": "United States Defense and Military Forces;Illegal Immigration;United States Politics and Government;Border Barriers;Defense Department;Mattis, James N;Southwestern States (US);your-feed-photojournalism;Trump, Donald J",
+                "column": null,
+                "section": "U.S.",
+                "byline": "By THOMAS GIBBONS-NEFF, HELENE COOPER and TAMIR KALIFA",
+                "type": "Article",
+                "title": "Deployed Inside the United States: The Military Waits for the Migrant Caravan",
+                "abstract": "With little electricity, no combat pay and holidays away from home, the 5,600 American troops on the southwest border are on a mission ordered by a politically determined commander in chief and a Pentagon unable to convince him of its perils.",
+                "published_date": "2018-11-10",
+                "source": "The New York Times",
+                "id": 100000006208143,
+                "asset_id": 100000006208143,
+                "views": 14,
+                "des_facet": [
+                              "UNITED STATES DEFENSE AND MILITARY FORCES",
+                              "ILLEGAL IMMIGRATION",
+                              "UNITED STATES POLITICS AND GOVERNMENT",
+                              "BORDER BARRIERS",
+                              "YOUR-FEED-PHOTOJOURNALISM"
+                              ],
+                "org_facet": [
+                              "DEFENSE DEPARTMENT"
+                              ],
+                "per_facet": [
+                              "MATTIS, JAMES N",
+                              "TRUMP, DONALD J"
+                              ],
+                "geo_facet": [
+                              "SOUTHWESTERN STATES (US)"
+                              ],
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Soldiers relaxed in their tent at Base Camp Donna in Texas. Thousands of troops have been deployed to the border with Mexico. ",
+                          "copyright": "Tamir Kalifa for The New York Times",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-military1-print/11dc-military1-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-military1-print/11dc-military1-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-military1-print/merlin_146577051_bb299613-a6df-4d43-a060-9c609af2df8d-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-military1-print/merlin_146577051_bb299613-a6df-4d43-a060-9c609af2df8d-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-military1-print/merlin_146577051_bb299613-a6df-4d43-a060-9c609af2df8d-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-military1-print/merlin_146577051_bb299613-a6df-4d43-a060-9c609af2df8d-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1366,
+                                             "width": 2048
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-military1-print/11dc-military1-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-military1-print/11dc-military1-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-military1-print/merlin_146577051_bb299613-a6df-4d43-a060-9c609af2df8d-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/11/us/politics/11dc-military1-print/merlin_146577051_bb299613-a6df-4d43-a060-9c609af2df8d-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/2018/11/12/world/middleeast/jamal-khashoggi-killing-saudi-arabia.html",
+                "adx_keywords": "Khashoggi, Jamal;Assassinations and Attempted Assassinations;United States International Relations;Espionage and Intelligence Services;Central Intelligence Agency;Mohammed bin Salman (1985- );Pompeo, Mike;Trump, Donald J;Saudi Arabia;Turkey",
+                "column": null,
+                "section": "World",
+                "byline": "By JULIAN E. BARNES, ERIC SCHMITT and DAVID D. KIRKPATRICK",
+                "type": "Article",
+                "title": "‘Tell Your Boss’: Recording Is Seen to Link Saudi Crown Prince More Strongly to Khashoggi Killing",
+                "abstract": "A Saudi operative’s comments to a royal aide after the killing of the journalist Jamal Khashoggi is among the strongest evidence yet tying Crown Prince Mohammed bin Salman to his death.",
+                "published_date": "2018-11-12",
+                "source": "The New York Times",
+                "id": 100000006210583,
+                "asset_id": 100000006210583,
+                "views": 15,
+                "des_facet": [
+                              "UNITED STATES INTERNATIONAL RELATIONS"
+                              ],
+                "org_facet": [
+                              "ASSASSINATIONS AND ATTEMPTED ASSASSINATIONS",
+                              "ESPIONAGE AND INTELLIGENCE SERVICES",
+                              "CENTRAL INTELLIGENCE AGENCY"
+                              ],
+                "per_facet": [
+                              "KHASHOGGI, JAMAL",
+                              "MOHAMMED BIN SALMAN (1985- )",
+                              "POMPEO, MIKE",
+                              "TRUMP, DONALD J"
+                              ],
+                "geo_facet": [
+                              "SAUDI ARABIA",
+                              "TURKEY"
+                              ],
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "A commemoration for the journalist Jamal Khashoggi on Sunday in Istanbul.",
+                          "copyright": "Ozan Kose/Agence France-Presse &mdash; Getty Images",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13dc-intel-print-promo/13dc-intel-print-promo-square320-v2.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13dc-intel-print-promo/13dc-intel-print-promo-thumbStandard-v2.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13dc-intel-print-promo/13dc-intel-print-promo-articleInline-v2.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13dc-intel-print-promo/13dc-intel-print-promo-sfSpan-v2.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13dc-intel-print-promo/13dc-intel-print-promo-jumbo-v2.jpg",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13dc-intel-print-promo/13dc-intel-print-promo-superJumbo-v2.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1366,
+                                             "width": 2048
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13dc-intel-print-promo/13dc-intel-print-promo-square640-v2.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13dc-intel-print-promo/13dc-intel-print-promo-thumbLarge-v2.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13dc-intel-print-promo/13dc-intel-print-promo-mediumThreeByTwo210-v4.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/13/us/politics/13dc-intel-print-promo/13dc-intel-print-promo-mediumThreeByTwo440-v4.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/2018/11/16/us/politics/mike-pence-trump-administration.html",
+                "adx_keywords": "Trump, Donald J;Pence, Mike;United States Politics and Government;Presidential Election of 2020;Vice Presidents and Vice Presidency (US)",
+                "column": null,
+                "section": "U.S.",
+                "byline": "By MAGGIE HABERMAN and KATIE ROGERS",
+                "type": "Article",
+                "title": "Is Mike Pence Loyal? Trump Is Asking, Despite His Recent Endorsement",
+                "abstract": "President Trump has repeated the question so many times that he has alarmed some of his advisers. But Mr. Trump has not openly suggested dropping Mr. Pence from the ticket in 2020.",
+                "published_date": "2018-11-16",
+                "source": "The New York Times",
+                "id": 100000006218342,
+                "asset_id": 100000006218342,
+                "views": 16,
+                "des_facet": [
+                              "UNITED STATES POLITICS AND GOVERNMENT"
+                              ],
+                "org_facet": [
+                              "PRESIDENTIAL ELECTION OF 2020",
+                              "VICE PRESIDENTS AND VICE PRESIDENCY (US)"
+                              ],
+                "per_facet": [
+                              "TRUMP, DONALD J",
+                              "PENCE, MIKE"
+                              ],
+                "geo_facet": "",
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Vice President Mike Pence during a rally on Nov. 4 with President Trump in Chattanooga, Tenn.",
+                          "copyright": "Gabriella Demczuk for The New York Times",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/us/politics/17dc-pence-print/17dc-pence1-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/us/politics/17dc-pence-print/17dc-pence1-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/us/politics/17dc-pence-print/merlin_146338695_de692f37-45df-4a62-abea-387dd014f6ba-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/us/politics/17dc-pence-print/merlin_146338695_de692f37-45df-4a62-abea-387dd014f6ba-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/us/politics/17dc-pence-print/merlin_146338695_de692f37-45df-4a62-abea-387dd014f6ba-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/us/politics/17dc-pence-print/merlin_146338695_de692f37-45df-4a62-abea-387dd014f6ba-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1366,
+                                             "width": 2048
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/us/politics/17dc-pence-print/17dc-pence1-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/us/politics/17dc-pence-print/17dc-pence1-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/us/politics/17dc-pence-print/merlin_146338695_de692f37-45df-4a62-abea-387dd014f6ba-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/us/politics/17dc-pence-print/merlin_146338695_de692f37-45df-4a62-abea-387dd014f6ba-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/2018/11/11/us/politics/macron-trump-paris-wwi.html",
+                "adx_keywords": "United States International Relations;World War I (1914-18);Macron, Emmanuel (1977- );Trump, Donald J;France;United States Politics and Government",
+                "column": null,
+                "section": "World",
+                "byline": "By PETER BAKER and ALISSA J. RUBIN",
+                "type": "Article",
+                "title": "Trump’s Nationalism, Rebuked at World War I Ceremony, Is Reshaping Much of Europe",
+                "abstract": "As world leaders marked the 100th anniversary of the Great War’s end, President Emmanuel Macron of France declared that “nationalism is a betrayal of patriotism.”",
+                "published_date": "2018-11-11",
+                "source": "The New York Times",
+                "id": 100000006209407,
+                "asset_id": 100000006209407,
+                "views": 17,
+                "des_facet": [
+                              "UNITED STATES INTERNATIONAL RELATIONS"
+                              ],
+                "org_facet": [
+                              "WORLD WAR I (1914-18)",
+                              "UNITED STATES POLITICS AND GOVERNMENT"
+                              ],
+                "per_facet": [
+                              "MACRON, EMMANUEL (1977- )",
+                              "TRUMP, DONALD J"
+                              ],
+                "geo_facet": [
+                              "FRANCE"
+                              ],
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "President Trump arriving at Suresnes American Cemetery outside Paris on Sunday as part of the commemoration the 100th anniversary of the end of World War I.",
+                          "copyright": "Tom Brenner for The New York Times",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/12/world/12armistice1-sub/12armistice1-sub-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/12/world/12armistice1-sub/12armistice1-sub-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/12/world/12armistice1-sub/merlin_146680032_d813dc18-a0ec-4bd0-8ebc-b64fffe922ba-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/12/world/12armistice1-sub/merlin_146680032_d813dc18-a0ec-4bd0-8ebc-b64fffe922ba-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/12/world/12armistice1-sub/merlin_146680032_d813dc18-a0ec-4bd0-8ebc-b64fffe922ba-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/12/world/12armistice1-sub/merlin_146680032_d813dc18-a0ec-4bd0-8ebc-b64fffe922ba-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1366,
+                                             "width": 2048
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/12/world/12armistice1-sub/12armistice1-sub-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/12/world/12armistice1-sub/12armistice1-sub-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/12/world/12armistice1-sub/merlin_146680032_d813dc18-a0ec-4bd0-8ebc-b64fffe922ba-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/12/world/12armistice1-sub/merlin_146680032_d813dc18-a0ec-4bd0-8ebc-b64fffe922ba-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/2018/11/16/business/media/cnn-acosta-trump.html",
+                "adx_keywords": "Acosta, Jim;CNN;Trump, Donald J;News and News Media;Suits and Litigation (Civil);Freedom of the Press;Kelly, Timothy J;Decisions and Verdicts;United States Politics and Government;White House Building (Washington, DC)",
+                "column": null,
+                "section": "Business",
+                "byline": "By MICHAEL M. GRYNBAUM and EMILY BAUMGAERTNER",
+                "type": "Article",
+                "title": "CNN’s Jim Acosta Returns to the White House After Judge’s Ruling",
+                "abstract": "The reporter at the center of CNN v. Donald J. Trump got his press pass back after a court said the administration’s process for barring him was “shrouded in mystery.”",
+                "published_date": "2018-11-16",
+                "source": "The New York Times",
+                "id": 100000006218757,
+                "asset_id": 100000006218757,
+                "views": 18,
+                "des_facet": [
+                              "NEWS AND NEWS MEDIA",
+                              "SUITS AND LITIGATION (CIVIL)",
+                              "FREEDOM OF THE PRESS",
+                              "DECISIONS AND VERDICTS",
+                              "UNITED STATES POLITICS AND GOVERNMENT"
+                              ],
+                "org_facet": [
+                              "CNN",
+                              "WHITE HOUSE BUILDING (WASHINGTON, DC)"
+                              ],
+                "per_facet": [
+                              "ACOSTA, JIM",
+                              "TRUMP, DONALD J",
+                              "KELLY, TIMOTHY J"
+                              ],
+                "geo_facet": "",
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Jim Acosta of CNN during a contentious news conference at the White House on Nov. 7. The Trump administration revoked his press credentials a short time later.",
+                          "copyright": "Doug Mills/The New York Times",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/business/17cnn1/merlin_146487009_d8bdd2b1-ded9-4533-bcba-1659c35cce5d-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/business/17cnn1/merlin_146487009_d8bdd2b1-ded9-4533-bcba-1659c35cce5d-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/business/17cnn1/merlin_146487009_d8bdd2b1-ded9-4533-bcba-1659c35cce5d-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/business/17cnn1/merlin_146487009_d8bdd2b1-ded9-4533-bcba-1659c35cce5d-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/business/17cnn1/merlin_146487009_d8bdd2b1-ded9-4533-bcba-1659c35cce5d-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/business/17cnn1/merlin_146487009_d8bdd2b1-ded9-4533-bcba-1659c35cce5d-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1365,
+                                             "width": 2048
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/business/17cnn1/merlin_146487009_d8bdd2b1-ded9-4533-bcba-1659c35cce5d-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/business/17cnn1/merlin_146487009_d8bdd2b1-ded9-4533-bcba-1659c35cce5d-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/business/17cnn1/merlin_146487009_d8bdd2b1-ded9-4533-bcba-1659c35cce5d-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/17/business/17cnn1/merlin_146487009_d8bdd2b1-ded9-4533-bcba-1659c35cce5d-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/2018/11/15/us/camp-fire-paradise-cause.html",
+                "adx_keywords": "Wildfires;Paradise (Calif);Weather;Fires and Firefighters;Pacific Gas and Electric Co",
+                "column": null,
+                "section": "U.S.",
+                "byline": "By KIRK JOHNSON",
+                "type": "Article",
+                "title": "What Started the California Fires? Experts Track the Blazes’ Origins",
+                "abstract": "Investigators looking for the cause of the most devastating wildfire in California history will begin with the premise that human beings were probably responsible.",
+                "published_date": "2018-11-15",
+                "source": "The New York Times",
+                "id": 100000006215607,
+                "asset_id": 100000006215607,
+                "views": 19,
+                "des_facet": [
+                              "WILDFIRES",
+                              "WEATHER",
+                              "FIRES AND FIREFIGHTERS"
+                              ],
+                "org_facet": [
+                              "PACIFIC GAS AND ELECTRIC CO"
+                              ],
+                "per_facet": "",
+                "geo_facet": [
+                              "PARADISE (CALIF)"
+                              ],
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "In searching for the cause of the wildfire, investigators will look at things that were touched by the flames but not destroyed.",
+                          "copyright": "Eric Thayer for The New York Times",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/us/15causes-01/15causes-01-square320-v2.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/us/15causes-01/15causes-01-thumbStandard-v2.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/us/15causes-01/15causes-01-articleInline-v2.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/us/15causes-01/15causes-01-sfSpan-v2.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/us/15causes-01/15causes-01-jumbo-v2.jpg",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/us/15causes-01/15causes-01-superJumbo-v2.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1365,
+                                             "width": 2048
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/us/15causes-01/15causes-01-square640-v2.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/us/15causes-01/15causes-01-thumbLarge-v2.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/us/15causes-01/15causes-01-mediumThreeByTwo210-v2.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/11/15/us/15causes-01/15causes-01-mediumThreeByTwo440-v2.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                },
+                {
+                "url": "https://www.nytimes.com/interactive/2018/08/04/upshot/up-birth-age-gap.html",
+                "adx_keywords": "Families and Family Life;Women and Girls;Sociology;States (US);Parenting;Rural Areas",
+                "column": "",
+                "section": "The Upshot",
+                "byline": "By QUOCTRUNG BUI and CLAIRE CAIN MILLER",
+                "type": "Interactive",
+                "title": "The Age That Women Have Babies: How a Gap Divides America",
+                "abstract": "Family life looks very different across the country, depending when women first give birth.",
+                "published_date": "2018-08-04",
+                "source": "The New York Times",
+                "id": 100000006022869,
+                "asset_id": 100000006022869,
+                "views": 20,
+                "des_facet": [
+                              "WOMEN AND GIRLS",
+                              "PARENTING"
+                              ],
+                "org_facet": [
+                              "FAMILIES AND FAMILY LIFE",
+                              "SOCIOLOGY",
+                              "STATES (US)",
+                              "RURAL AREAS"
+                              ],
+                "per_facet": "",
+                "geo_facet": "",
+                "media": [
+                          {
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "",
+                          "copyright": "",
+                          "approved_for_syndication": 0,
+                          "media-metadata": [
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/07/24/us/up-birth-age-promo-1532471108728/up-birth-age-promo-1532471108728-square320-v3.png",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/07/24/us/up-birth-age-promo-1532471108728/up-birth-age-promo-1532471108728-thumbStandard-v3.png",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/07/24/us/up-birth-age-promo-1532471108728/up-birth-age-promo-1532471108728-articleInline-v3.png",
+                                             "format": "Normal",
+                                             "height": 120,
+                                             "width": 190
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/07/24/us/up-birth-age-promo-1532471108728/up-birth-age-promo-1532471108728-sfSpan-v4.png",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/07/24/us/up-birth-age-promo-1532471108728/up-birth-age-promo-1532471108728-jumbo-v3.png",
+                                             "format": "Jumbo",
+                                             "height": 646,
+                                             "width": 1024
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/07/24/us/up-birth-age-promo-1532471108728/up-birth-age-promo-1532471108728-superJumbo-v3.png",
+                                             "format": "superJumbo",
+                                             "height": 669,
+                                             "width": 1060
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/07/24/us/up-birth-age-promo-1532471108728/up-birth-age-promo-1532471108728-square640-v3.png",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/07/24/us/up-birth-age-promo-1532471108728/up-birth-age-promo-1532471108728-thumbLarge-v3.png",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/07/24/us/up-birth-age-promo-1532471108728/up-birth-age-promo-1532471108728-mediumThreeByTwo210-v3.png",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             },
+                                             {
+                                             "url": "https://static01.nyt.com/images/2018/07/24/us/up-birth-age-promo-1532471108728/up-birth-age-promo-1532471108728-mediumThreeByTwo440-v3.png",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }
+                                             ]
+                          }
+                          ]
+                }
+                ]
+}
